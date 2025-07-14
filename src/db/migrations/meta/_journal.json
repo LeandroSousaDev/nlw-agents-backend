@@ -8,6 +8,20 @@
       "when": 1752357071660,
       "tag": "0000_worthless_paibok",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752452137331,
+      "tag": "0001_jazzy_nova",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752522774324,
+      "tag": "0002_violet_blue_shield",
+      "breakpoints": true
     }
   ]
 }
